@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'vazir';
+    src: url("vazir-font-v16.1.0/Vazir-Bold.eot") format('eot'),
+  }
+  @font-face {
+    font-family: 'vazir';
+    src: url("vazir-font-v16.1.0/Vazir-Bold.ttf") format('ttf'),
+  }
+  @font-face {
+    font-family: 'vazir';
+    src: url("vazir-font-v16.1.0/Vazir-Bold.woff") format('woff'),
+  }
+  @font-face {
+    font-family: 'vazir';
+    src: url("vazir-font-v16.1.0/Vazir-Bold.woff2") format('woff2'),
+  }
+  .body {
+    font-family: 'vazir';
+  }
